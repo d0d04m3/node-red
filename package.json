@@ -1,0 +1,13 @@
+{
+  "name": "nodered-glitch",
+  "version": "0.0.1",
+  "dependencies": {
+    "node-red": "2.0.5"
+  },
+  "scripts": {
+    "start": "/app/node_modules/.bin/node-red"
+  },
+  "devDependencies": {
+    "@architect/sandbox": "^4.0.1"
+  }
+}
